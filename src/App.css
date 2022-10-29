@@ -54,3 +54,16 @@ a {
   text-decoration: none;
   color: unset;
 }
+
+img {
+  width: 100%;
+}
+
+section {
+  padding: 60pxp 0px;
+}
+
+.section__title {
+  color: var(--primary-color);
+  font-weight: 500;
+}
